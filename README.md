@@ -1,2 +1,0 @@
-# teXas
-teXas
